@@ -1,0 +1,5 @@
+{
+  "name": "SCU Finance Advising Bot",
+  "description": "A modern, responsive chatbot interface for Santa Clara University Finance advising, featuring mock response logic and Gemini API integration capability.",
+  "requestFramePermissions": []
+}

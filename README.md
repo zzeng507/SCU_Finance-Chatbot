@@ -20,3 +20,5 @@ A university course project chatbot designed to answer finance-related questions
 
 - This project is developed for academic purposes.
 - Sensitive information such as API keys is not included in the repository.
+
+<img width="412" height="208" alt="{5F028CB3-E1BB-4D1B-BC10-AAE0752AB366}" src="https://github.com/user-attachments/assets/6cec5f1c-96df-48f5-8154-41e576254ce3" />
